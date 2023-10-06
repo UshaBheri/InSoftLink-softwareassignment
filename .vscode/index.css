@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://res.cloudinary.com/ddtoi0jtp/image/upload/v1696577979/back-school-blackboard-with-chalk-drawings-copy-space-horizontal-banner_687448-24_rfgd1l.avif");
+    background-size: cover;
+    height: 100vh;
+}
+.container{
+    flex-wrap: wrap;
+}
+.nav-list {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+.nav-item1 {
+    padding: 10px;
+}
+
+.nav-item2 {
+    padding: 5px;
+}
+
+.nav-item3 {
+    padding: 5px;
+}
+
+.nav-item4 {
+    padding: 5px;
+}
+
+.nav-item5 {
+    padding: 5px;
+}
+
+.nav-item6 {
+    padding: 5px;
+}
+
+.nav2 {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+.text {
+    color: #ffffff;
+}
+
+.card-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.card {
+    height: 150px;
+    width: 200px;
+    margin: 10px;
+}
+
+.header {
+    font-size: 15px;
+    text-align: center;
+}
+
+.button {
+    background-color: orange;
+    border-width: 0px;
+    margin: 5px;
+    border-radius: 15px;
+}
+
+.btn-button {
+    background-color: transparent;
+    border-width: 0px;
+}
+
+.icon {
+    height: 80px;
+    width: 80px;
+}
+.login-container {
+    display: flex;
+    justify-content: center;
+}
+
+.login {
+    display: flex;
+}
+
+.label-text {
+    margin-top: 10px;
+}
+
+.btn {
+    height: 35px;
+    width: 135px;
+    background-color: black;
+    color: #ffffff;
+    margin-top: 10px;
+}
+.user-login {
+    display: flex;
+    justify-content: space-between;
+}
+.text2{
+    font-size: 10px;
+}
